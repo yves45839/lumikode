@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lumikode/static/css/main.c5b98672.css",
-    "main.js": "/lumikode/static/js/main.281bf425.js",
+    "main.js": "/lumikode/static/js/main.1e9fc9bb.js",
     "static/js/453.a4c332f8.chunk.js": "/lumikode/static/js/453.a4c332f8.chunk.js",
     "index.html": "/lumikode/index.html",
     "main.c5b98672.css.map": "/lumikode/static/css/main.c5b98672.css.map",
-    "main.281bf425.js.map": "/lumikode/static/js/main.281bf425.js.map",
+    "main.1e9fc9bb.js.map": "/lumikode/static/js/main.1e9fc9bb.js.map",
     "453.a4c332f8.chunk.js.map": "/lumikode/static/js/453.a4c332f8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5b98672.css",
-    "static/js/main.281bf425.js"
+    "static/js/main.1e9fc9bb.js"
   ]
 }
