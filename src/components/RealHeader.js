@@ -1,11 +1,11 @@
 import React from 'react';
-import './RealHeader.css'; 
+import './RealHeader.css';
 
 const RealHeader = () => {
     return (
         <header className="real-header">
             <div className="logo">
-                <img src="/images/logo_lumikode.png" alt="LumiKode Logo" />
+                <img src={`${process.env.PUBLIC_URL}/images/logo_lumikode.png`} alt="Logo Lumikode" />
             </div>
             <nav>
                 <ul className="nav-list">
