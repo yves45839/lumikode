@@ -24,7 +24,7 @@ const solutions = [
     },
     {
         title: "Rapports & Analyses",
-        description: "Nous Analysons les performances et optimisons vos stratégies.",
+        description: "Nous analysons les performances et optimisons vos stratégies.",
         image: `${process.env.PUBLIC_URL}/images/reporting_analytics.jpg`,
     },
     {
@@ -33,7 +33,6 @@ const solutions = [
         image: `${process.env.PUBLIC_URL}/images/crisis_management.jpg`,
     },
 ];
-
 
 const NosSolutions = () => {
     return (

@@ -17,7 +17,7 @@ function App() {
                 <NosCouts />
             </main>
             <footer className="App-footer">
-                <p>Contactez-nous : info@lumikode.com | www.lumikode.com</p>
+                <p>Contactez-nous : +225 015 31 31 311 | info@lumikode.com | www.lumikode.com</p>
             </footer>
         </div>
     );
