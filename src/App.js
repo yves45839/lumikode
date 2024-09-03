@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Header from './components/Header'; // Assurez-vous que le chemin est correct
+import Header from './components/Header'; 
 import NosSolutions from './components/NosSolutions';
 import PourquoiNous from './components/PourquoiNous';
 import NotreApproche from './components/NotreApproche';
